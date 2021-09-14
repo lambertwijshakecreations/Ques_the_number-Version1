@@ -1,0 +1,36 @@
+//mobile
+
+body{
+    width:100%;
+    height: 100%;
+    background-color: rgb(253, 222, 227);
+
+}
+
+header{
+    border-bottom:2px dotted red;
+    display: flex;
+    justify-content: center;
+    h1{
+        color:#fff;
+        text-shadow: 0 0 5px red;
+    }
+}
+
+main{
+    color:red;
+    text-align: center;
+    padding: 0 20px;
+   
+    h2{
+        color:#fff;
+        text-shadow: 0 0 3px red;
+    }
+    h3{
+        color:#fff;
+        text-shadow: 0 0 3px red; 
+        border: 1px dotted red;
+        width: 50%;
+        margin:auto;
+    }
+}
